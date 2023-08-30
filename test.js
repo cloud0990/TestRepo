@@ -1,5 +1,12 @@
 const cat = "고양이 귀여워";
-const test = "test";
-
 console.log(cat);
+
+const test = "test";
 console.log("냥냥굿")
+
+console.log("123123")
+
+console.log("update")
+console.log("update")
+console.log("update")
+
